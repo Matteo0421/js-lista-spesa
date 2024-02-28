@@ -47,3 +47,13 @@ btn.addEventListener('click', function(){
   }
 
 })
+
+// btn.addEventListener('click', function () {
+//   while(counter < listaSpesa.length){
+//     console.log(listaSpesa[counter]);
+//     output.innerHTML =listaSpesa[counter];
+  
+//     counter++;
+//   }
+// })
+
